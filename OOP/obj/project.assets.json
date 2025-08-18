@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gomaq_ti/Documentos/OOP/OOP/OOP.csproj",
+      "projectUniqueName": "/home/gomaq_ti/Documentos/estudos-c-/OOP/OOP.csproj",
       "projectName": "OOP",
-      "projectPath": "/home/gomaq_ti/Documentos/OOP/OOP/OOP.csproj",
+      "projectPath": "/home/gomaq_ti/Documentos/estudos-c-/OOP/OOP.csproj",
       "packagesPath": "/home/gomaq_ti/.nuget/packages/",
-      "outputPath": "/home/gomaq_ti/Documentos/OOP/OOP/obj/",
+      "outputPath": "/home/gomaq_ti/Documentos/estudos-c-/OOP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gomaq_ti/.nuget/NuGet/NuGet.Config"
