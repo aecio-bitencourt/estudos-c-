@@ -1,0 +1,14 @@
+/home/gomaq_ti/Documentos/OOP/OOP/bin/Debug/net9.0/OOP
+/home/gomaq_ti/Documentos/OOP/OOP/bin/Debug/net9.0/OOP.deps.json
+/home/gomaq_ti/Documentos/OOP/OOP/bin/Debug/net9.0/OOP.runtimeconfig.json
+/home/gomaq_ti/Documentos/OOP/OOP/bin/Debug/net9.0/OOP.dll
+/home/gomaq_ti/Documentos/OOP/OOP/bin/Debug/net9.0/OOP.pdb
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/OOP.dll
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/refint/OOP.dll
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/OOP.pdb
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/OOP.genruntimeconfig.cache
+/home/gomaq_ti/Documentos/OOP/OOP/obj/Debug/net9.0/ref/OOP.dll
