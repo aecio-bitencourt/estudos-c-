@@ -1,17 +1,23 @@
+using System.Globalization;
+
 namespace OOP;
 
 public class UsedProduct : Product
-{   // Será DateOnly?
-    public DateOnly ManufactureDate { get; set; }
+{
+    public DateTime ManufactureDate { get; set; }
 
     public UsedProduct()
     {
     }
 
-    public UsedProduct(string name, double price, DateOnly manufactureDate) : base(name, price)
+    public UsedProduct(string name, double price, DateTime manufactureDate) : base(name, price)
     {
         ManufactureDate = manufactureDate;
     }
     
-    // override aqui
+    // Tenho que fazer a formatação
+    public override string PriceTag()
+    {
+        return Name + " " + "(used)" + " " + "$" + " " + Price.ToString("F2", CultureInfo.InvariantCulture) + " " + $"(Manufacture date: {ManufactureDate.Date})";
+    }
 }

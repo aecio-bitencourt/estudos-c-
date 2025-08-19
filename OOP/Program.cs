@@ -7,7 +7,9 @@ namespace OOP
     {
         public static void Main(string[] args)
         {
-            
+            Console.Write("Enter the number of products: ");
+            var n = int.Parse(Console.ReadLine());
+            var products = new List<Product>();
         }
     }
 }
